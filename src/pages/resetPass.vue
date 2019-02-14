@@ -4,7 +4,7 @@
         <div class="tel">
             <img src="../assets/images/loginTel.png">
             <b>+86</b>
-            <input v-model="username" :value="username" type="tel" placeholder="" class="telValue_reset">
+            <input v-model="username" type="tel" placeholder="" class="telValue_reset">
         </div>
 
         <div class="tel yanzm">
